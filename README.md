@@ -22,7 +22,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![scikitlearn](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=purple&labelColor=0D1117)&nbsp; 
+![scikitlearn](https://img.shields.io/badge/-scikitlearn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=scikitlearn&labelColor=0D1117)&nbsp; 
  
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
